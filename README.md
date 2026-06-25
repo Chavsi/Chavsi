@@ -15,3 +15,11 @@
 - 🤲  **[Handzone](https://handzone.app)** — Premium SaaS engine template.
 - 🛒  **[CompuMás Commerce](https://compumas.app)** — Premium e-commerce engine template.
 - 🐱  **[Pycat](https://pycat.app)** — Feed & content creation tool — live demo showcase.
+
+<img src="assets/section_opensource.svg" alt="Open Source" height="40">
+
+- 🛡️  **[CyberGuardian](https://github.com/Chavsi/CyberGuardian)** — Portable Python/Flask tool to audit listening ports, detect active processes, and export a clean report.
+- 🖼️  **[ctrlaltmeme](https://github.com/Chavsi/ctrlaltmeme)** — Minimal Flask app to upload and view memes — no login, no accounts.
+- 🛠️  **[python-dev-tools](https://github.com/Chavsi/python-dev-tools)** — Collection of standalone Python scripts for common dev tasks.
+- 📰  **[hydra-digest](https://github.com/Chavsi/hydra-digest)** — TypeScript scripts for Val Town — pulls news, bounties, gigs, and more.
+- ⚡  **[fastapi-autodoc-demo](https://github.com/Chavsi/fastapi-autodoc-demo)** — Minimal FastAPI + SQLAlchemy demo for device assignment and release.
