@@ -1,4 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/header.svg" alt="Hi, I'm Mijael Mardonez — Full Stack Web Developer · Solo founder" width="636">
+</div>
+
+
+<div align="center">
+
+# 👋 Hi im Mijael Mardonez
+
+**Full Stack Web Developer · Solo founder**
+
+</div>
 
 <!--
 **Chavsi/Chavsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
