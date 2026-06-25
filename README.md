@@ -4,7 +4,7 @@
 
   **Building web applications and digital solutions with clear purpose**
 
-  [<img src="assets/btn_website.svg" alt="Website" height="38">](https://compumasapp.com){:target="_blank"}  [<img src="assets/btn_email.svg" alt="Email" height="38">](mailto:mijael.mardonez@compumasapp.com){:target="_blank"}
+  [<img src="assets/btn_website.svg" alt="Website" height="38">](https://compumasapp.com)  [<img src="assets/btn_email.svg" alt="Email" height="38">](mailto:mijael.mardonez@compumasapp.com)
 
 </div>
 
